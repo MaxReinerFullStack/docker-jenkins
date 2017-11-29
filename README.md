@@ -20,7 +20,7 @@ By default, JENKINS_HOME is set to /jenkins.
 
 To build the image, simply invoke
 
-    docker build github.com/maxreiner/docker-jenkins
+    docker build github.com/maxreinerfullstack/docker-jenkins
 
 A prebuilt container is also available in the docker index
 
