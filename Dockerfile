@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-MAINTAINER maximilian Reiner "max.reiner@web.de"
+MAINTAINER Maximilian Reiner "max.reiner@web.de"
 
 RUN apt-get update && \
     apt-get --no-install-recommends install -q -y openjdk-8-jre-headless && \
